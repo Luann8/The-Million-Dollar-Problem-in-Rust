@@ -1,0 +1,2 @@
+rustc filename.rs
+./filename
