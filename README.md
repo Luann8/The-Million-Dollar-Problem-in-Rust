@@ -1,4 +1,4 @@
-# the "Million-Dollar Problem" in Rust
+# The "Million-Dollar Problem" in Rust
 
 The **"Million-Dollar Problem"** in Rust is an expression that has emerged in the software development community to describe a challenging situation that can arise when attempting to solve a complex problem in Rust, a systems programming language focused on safety and concurrency.
 
